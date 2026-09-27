@@ -1,0 +1,46 @@
+prompt_id,prompt_text,vibe_1,w_1,vibe_2,w_2,vibe_3,w_3
+p_energetic_01,The space feels energetic and highly stimulating.,energetic,0.9,calm,0.35,compressed,0.15
+p_energetic_02,The atmosphere feels charged and activating.,energetic,0.85,inviting,0.4,open,0.15
+p_energetic_03,The scene feels lively and fast-paced.,energetic,0.85,excluding,0.35,exploratory,0.15
+p_energetic_04,The environment demands attention and engagement.,energetic,0.8,legible,0.4,calm,0.15
+p_energetic_05,The space encourages constant motion.,energetic,0.8,disorienting,0.35,energetic,0.15
+p_calm_01,The space feels calm and low in stimulation.,calm,0.9,inviting,0.35,open,0.15
+p_calm_02,The atmosphere feels quiet and unhurried.,calm,0.85,excluding,0.4,exploratory,0.15
+p_calm_03,The scene feels peaceful and steady.,calm,0.85,legible,0.35,inviting,0.15
+p_calm_04,The environment feels mentally restful.,calm,0.8,disorienting,0.4,energetic,0.15
+p_calm_05,The space discourages urgency.,calm,0.8,compressed,0.35,calm,0.15
+p_inviting_01,The space feels welcoming and approachable.,inviting,0.9,excluding,0.35,exploratory,0.15
+p_inviting_02,The environment encourages entry and use.,inviting,0.85,legible,0.4,exploratory,0.15
+p_inviting_03,The scene feels open to participation.,inviting,0.85,disorienting,0.35,energetic,0.15
+p_inviting_04,The space signals social availability.,inviting,0.8,compressed,0.4,calm,0.15
+p_inviting_05,The atmosphere feels accessible.,inviting,0.8,open,0.35,inviting,0.15
+p_excluding_01,The space discourages lingering.,excluding,0.9,legible,0.35,disorienting,0.15
+p_excluding_02,The environment feels emotionally distant.,excluding,0.85,disorienting,0.4,energetic,0.15
+p_excluding_03,The scene prioritizes movement over presence.,excluding,0.85,compressed,0.35,calm,0.15
+p_excluding_04,The space feels unaccommodating.,excluding,0.8,open,0.4,inviting,0.15
+p_excluding_05,The environment discourages engagement.,excluding,0.8,exploratory,0.35,excluding,0.15
+p_legible_01,The space feels stable and anchored.,legible,0.9,disorienting,0.35,energetic,0.15
+p_legible_02,The environment feels physically legible.,legible,0.85,compressed,0.4,calm,0.15
+p_legible_03,The scene feels materially solid.,legible,0.85,open,0.35,inviting,0.15
+p_legible_04,The space feels reliable and steady.,legible,0.8,exploratory,0.4,excluding,0.15
+p_legible_05,The environment feels spatially clear.,legible,0.8,calm,0.35,legible,0.15
+p_disorienting_01,The space feels confusing and hard to read.,disorienting,0.9,compressed,0.35,calm,0.15
+p_disorienting_02,The environment feels directionally ambiguous.,disorienting,0.85,open,0.4,inviting,0.15
+p_disorienting_03,The scene feels visually restless and unsettled.,disorienting,0.85,exploratory,0.35,excluding,0.15
+p_disorienting_04,The space disrupts a clear sense of orientation.,disorienting,0.8,exploratory,0.4,legible,0.15
+p_disorienting_05,The environment feels difficult to navigate.,disorienting,0.8,energetic,0.35,disorienting,0.15
+p_compressed_01,The space feels cramped and emotionally constraining.,compressed,0.9,open,0.35,inviting,0.15
+p_compressed_02,The environment feels tight and limiting.,compressed,0.85,exploratory,0.4,excluding,0.15
+p_compressed_03,The scene feels enclosed and pressure-like.,compressed,0.85,calm,0.35,legible,0.15
+p_compressed_04,The space feels hard to breathe in.,compressed,0.8,energetic,0.4,disorienting,0.15
+p_compressed_05,The environment feels closed and compressing.,compressed,0.8,calm,0.35,compressed,0.15
+p_open_01,The space feels open and freeing.,open,0.9,exploratory,0.35,excluding,0.15
+p_open_02,The environment supports easy movement.,open,0.85,inviting,0.4,legible,0.15
+p_open_03,The scene feels expansive and unconfined.,open,0.85,energetic,0.35,disorienting,0.15
+p_open_04,The space invites a sense of release.,open,0.8,calm,0.4,compressed,0.15
+p_open_05,The environment feels breathable and open.,open,0.8,inviting,0.35,open,0.15
+p_exploratory_01,The space feels intriguing and attention-pulling.,exploratory,0.9,open,0.35,legible,0.15
+p_exploratory_02,The environment rewards looking closer.,exploratory,0.85,energetic,0.4,disorienting,0.15
+p_exploratory_03,The scene offers details worth exploring.,exploratory,0.85,calm,0.35,compressed,0.15
+p_exploratory_04,The space feels suggestive rather than complete.,exploratory,0.8,inviting,0.4,open,0.15
+p_exploratory_05,The environment invites exploration and discovery.,exploratory,0.8,excluding,0.35,exploratory,0.15

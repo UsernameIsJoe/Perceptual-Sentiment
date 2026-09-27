@@ -1,0 +1,3047 @@
+{
+  "out_dir": "streetview_corners",
+  "mode": "streetview",
+  "selection": "grid_spread",
+  "point_a": {
+    "lat": 42.360078274809,
+    "lng": -71.08752485500423
+  },
+  "point_b": {
+    "lat": 42.375489457641926,
+    "lng": -71.1143153221658
+  },
+  "requested_max_corners": 100,
+  "intersections_in_area": 860,
+  "intersections_selected": 100,
+  "saved": 100,
+  "skipped": 0,
+  "skipped_duplicate_pano": 0,
+  "area_margin_start_m": 80.0,
+  "area_margin_step_m": 60.0,
+  "area_margin_max_m": 350.0,
+  "area_margin_final_m": 80.0,
+  "area_bbox": {
+    "south": 42.359359625869004,
+    "west": -71.11528800152418,
+    "north": 42.37620810658192,
+    "east": -71.08655217564585
+  },
+  "fetch_streetview": true,
+  "fov": 90,
+  "pitch": 0,
+  "size": "640x480",
+  "route_polyline": [
+    [
+      42.360058,
+      -71.087513
+    ],
+    [
+      42.360054,
+      -71.087525
+    ],
+    [
+      42.360032,
+      -71.08759
+    ],
+    [
+      42.360005,
+      -71.087659
+    ],
+    [
+      42.36009,
+      -71.087706
+    ],
+    [
+      42.36092,
+      -71.088203
+    ],
+    [
+      42.360937,
+      -71.088213
+    ],
+    [
+      42.36106,
+      -71.088286
+    ],
+    [
+      42.36109,
+      -71.088304
+    ],
+    [
+      42.361121,
+      -71.088322
+    ],
+    [
+      42.361141,
+      -71.088332
+    ],
+    [
+      42.361156,
+      -71.088338
+    ],
+    [
+      42.361177,
+      -71.088345
+    ],
+    [
+      42.361199,
+      -71.088351
+    ],
+    [
+      42.361224,
+      -71.088356
+    ],
+    [
+      42.36125,
+      -71.088359
+    ],
+    [
+      42.361268,
+      -71.08836
+    ],
+    [
+      42.361282,
+      -71.08836
+    ],
+    [
+      42.361303,
+      -71.08836
+    ],
+    [
+      42.361325,
+      -71.088358
+    ],
+    [
+      42.361341,
+      -71.088356
+    ],
+    [
+      42.362422,
+      -71.088211
+    ],
+    [
+      42.362445,
+      -71.088208
+    ],
+    [
+      42.362583,
+      -71.088207
+    ],
+    [
+      42.362705,
+      -71.088206
+    ],
+    [
+      42.362774,
+      -71.088202
+    ],
+    [
+      42.363053,
+      -71.088161
+    ],
+    [
+      42.363084,
+      -71.088153
+    ],
+    [
+      42.363098,
+      -71.088148
+    ],
+    [
+      42.363114,
+      -71.088142
+    ],
+    [
+      42.36313,
+      -71.088135
+    ],
+    [
+      42.363142,
+      -71.088129
+    ],
+    [
+      42.363152,
+      -71.088123
+    ],
+    [
+      42.363165,
+      -71.088114
+    ],
+    [
+      42.363172,
+      -71.088109
+    ],
+    [
+      42.363534,
+      -71.087827
+    ],
+    [
+      42.363574,
+      -71.087919
+    ],
+    [
+      42.36372,
+      -71.088261
+    ],
+    [
+      42.363865,
+      -71.088618
+    ],
+    [
+      42.363906,
+      -71.088713
+    ],
+    [
+      42.363917,
+      -71.088739
+    ],
+    [
+      42.363982,
+      -71.0889
+    ],
+    [
+      42.36411,
+      -71.089216
+    ],
+    [
+      42.364173,
+      -71.089396
+    ],
+    [
+      42.364209,
+      -71.089514
+    ],
+    [
+      42.364477,
+      -71.089441
+    ],
+    [
+      42.364516,
+      -71.089431
+    ],
+    [
+      42.364555,
+      -71.08942
+    ],
+    [
+      42.364583,
+      -71.089415
+    ],
+    [
+      42.36463,
+      -71.089408
+    ],
+    [
+      42.364673,
+      -71.089405
+    ],
+    [
+      42.364701,
+      -71.089405
+    ],
+    [
+      42.364718,
+      -71.089405
+    ],
+    [
+      42.36479,
+      -71.089403
+    ],
+    [
+      42.364836,
+      -71.089523
+    ],
+    [
+      42.364872,
+      -71.089619
+    ],
+    [
+      42.364914,
+      -71.089729
+    ],
+    [
+      42.364934,
+      -71.08978
+    ],
+    [
+      42.365061,
+      -71.090116
+    ],
+    [
+      42.365229,
+      -71.090557
+    ],
+    [
+      42.365369,
+      -71.090925
+    ],
+    [
+      42.365389,
+      -71.090955
+    ],
+    [
+      42.365448,
+      -71.091133
+    ],
+    [
+      42.365505,
+      -71.091306
+    ],
+    [
+      42.365516,
+      -71.09134
+    ],
+    [
+      42.365623,
+      -71.091613
+    ],
+    [
+      42.365772,
+      -71.091994
+    ],
+    [
+      42.365802,
+      -71.092073
+    ],
+    [
+      42.365844,
+      -71.092178
+    ],
+    [
+      42.365874,
+      -71.092254
+    ],
+    [
+      42.366027,
+      -71.092644
+    ],
+    [
+      42.366365,
+      -71.093501
+    ],
+    [
+      42.366385,
+      -71.093553
+    ],
+    [
+      42.36641,
+      -71.093618
+    ],
+    [
+      42.36645,
+      -71.093718
+    ],
+    [
+      42.366616,
+      -71.09414
+    ],
+    [
+      42.366662,
+      -71.094257
+    ],
+    [
+      42.366688,
+      -71.094325
+    ],
+    [
+      42.366903,
+      -71.09487
+    ],
+    [
+      42.367033,
+      -71.0952
+    ],
+    [
+      42.367071,
+      -71.095298
+    ],
+    [
+      42.367122,
+      -71.095427
+    ],
+    [
+      42.367153,
+      -71.095507
+    ],
+    [
+      42.367497,
+      -71.09638
+    ],
+    [
+      42.367638,
+      -71.096738
+    ],
+    [
+      42.367671,
+      -71.096823
+    ],
+    [
+      42.367708,
+      -71.096916
+    ],
+    [
+      42.36784,
+      -71.097252
+    ],
+    [
+      42.367885,
+      -71.097367
+    ],
+    [
+      42.367926,
+      -71.09747
+    ],
+    [
+      42.368205,
+      -71.098182
+    ],
+    [
+      42.368263,
+      -71.098327
+    ],
+    [
+      42.368503,
+      -71.098939
+    ],
+    [
+      42.368526,
+      -71.098997
+    ],
+    [
+      42.368567,
+      -71.0991
+    ],
+    [
+      42.368765,
+      -71.099604
+    ],
+    [
+      42.368866,
+      -71.099862
+    ],
+    [
+      42.368905,
+      -71.099961
+    ],
+    [
+      42.36896,
+      -71.1001
+    ],
+    [
+      42.369132,
+      -71.100537
+    ],
+    [
+      42.369182,
+      -71.100664
+    ],
+    [
+      42.369294,
+      -71.100949
+    ],
+    [
+      42.369323,
+      -71.101024
+    ],
+    [
+      42.369352,
+      -71.101097
+    ],
+    [
+      42.369384,
+      -71.101179
+    ],
+    [
+      42.369432,
+      -71.101301
+    ],
+    [
+      42.369457,
+      -71.101364
+    ],
+    [
+      42.369487,
+      -71.10144
+    ],
+    [
+      42.369669,
+      -71.101901
+    ],
+    [
+      42.369711,
+      -71.102006
+    ],
+    [
+      42.369874,
+      -71.102418
+    ],
+    [
+      42.369953,
+      -71.102616
+    ],
+    [
+      42.37003,
+      -71.102811
+    ],
+    [
+      42.370054,
+      -71.102872
+    ],
+    [
+      42.370076,
+      -71.102928
+    ],
+    [
+      42.370104,
+      -71.102998
+    ],
+    [
+      42.370122,
+      -71.103043
+    ],
+    [
+      42.37035,
+      -71.103621
+    ],
+    [
+      42.370399,
+      -71.103745
+    ],
+    [
+      42.370436,
+      -71.103838
+    ],
+    [
+      42.370593,
+      -71.104233
+    ],
+    [
+      42.370774,
+      -71.104692
+    ],
+    [
+      42.370815,
+      -71.104795
+    ],
+    [
+      42.371189,
+      -71.105739
+    ],
+    [
+      42.371326,
+      -71.106087
+    ],
+    [
+      42.371595,
+      -71.106759
+    ],
+    [
+      42.371623,
+      -71.106837
+    ],
+    [
+      42.371651,
+      -71.106907
+    ],
+    [
+      42.371844,
+      -71.107394
+    ],
+    [
+      42.372059,
+      -71.107938
+    ],
+    [
+      42.372081,
+      -71.107993
+    ],
+    [
+      42.372195,
+      -71.108289
+    ],
+    [
+      42.372218,
+      -71.108348
+    ],
+    [
+      42.372306,
+      -71.108562
+    ],
+    [
+      42.372325,
+      -71.10861
+    ],
+    [
+      42.372575,
+      -71.109241
+    ],
+    [
+      42.372741,
+      -71.109662
+    ],
+    [
+      42.372767,
+      -71.109729
+    ],
+    [
+      42.372794,
+      -71.109795
+    ],
+    [
+      42.373067,
+      -71.110486
+    ],
+    [
+      42.373174,
+      -71.110757
+    ],
+    [
+      42.373207,
+      -71.110839
+    ],
+    [
+      42.373245,
+      -71.110936
+    ],
+    [
+      42.373416,
+      -71.111367
+    ],
+    [
+      42.373551,
+      -71.111708
+    ],
+    [
+      42.373622,
+      -71.111816
+    ],
+    [
+      42.37364,
+      -71.111847
+    ],
+    [
+      42.373654,
+      -71.111877
+    ],
+    [
+      42.373668,
+      -71.111908
+    ],
+    [
+      42.373686,
+      -71.111951
+    ],
+    [
+      42.373713,
+      -71.112023
+    ],
+    [
+      42.373723,
+      -71.112053
+    ],
+    [
+      42.373733,
+      -71.112088
+    ],
+    [
+      42.373742,
+      -71.112122
+    ],
+    [
+      42.37375,
+      -71.112159
+    ],
+    [
+      42.373766,
+      -71.112255
+    ],
+    [
+      42.373841,
+      -71.112445
+    ],
+    [
+      42.373928,
+      -71.112667
+    ],
+    [
+      42.373974,
+      -71.112784
+    ],
+    [
+      42.374011,
+      -71.112875
+    ],
+    [
+      42.37404,
+      -71.112947
+    ],
+    [
+      42.374118,
+      -71.113141
+    ],
+    [
+      42.374136,
+      -71.113185
+    ],
+    [
+      42.374154,
+      -71.113226
+    ],
+    [
+      42.374175,
+      -71.113267
+    ],
+    [
+      42.374196,
+      -71.113308
+    ],
+    [
+      42.374216,
+      -71.113345
+    ],
+    [
+      42.374334,
+      -71.113549
+    ],
+    [
+      42.374372,
+      -71.113615
+    ],
+    [
+      42.374477,
+      -71.113616
+    ],
+    [
+      42.374851,
+      -71.113529
+    ],
+    [
+      42.375257,
+      -71.113438
+    ],
+    [
+      42.375283,
+      -71.113432
+    ],
+    [
+      42.375319,
+      -71.113424
+    ],
+    [
+      42.375327,
+      -71.113422
+    ],
+    [
+      42.375365,
+      -71.113413
+    ],
+    [
+      42.375393,
+      -71.113626
+    ],
+    [
+      42.375453,
+      -71.114092
+    ],
+    [
+      42.375459,
+      -71.11414
+    ],
+    [
+      42.375465,
+      -71.114187
+    ],
+    [
+      42.375482,
+      -71.114317
+    ]
+  ],
+  "nodes": [
+    {
+      "id": "corner_001",
+      "index": 1,
+      "lat": 42.3601424,
+      "lng": -71.1127706,
+      "osm_node_id": 61328029,
+      "street_names": [
+        "Putnam Avenue",
+        "Pleasant Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        0,
+        0
+      ],
+      "heading": 81.8,
+      "pano_id": "Q1-pkREFFiplLtl0jBUVpQ",
+      "image": "frame_0001.jpg"
+    },
+    {
+      "id": "corner_002",
+      "index": 2,
+      "lat": 42.3603084,
+      "lng": -71.1112044,
+      "osm_node_id": 61317553,
+      "street_names": [
+        "Allston Street",
+        "Kenwood Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        0,
+        1
+      ],
+      "heading": 84.8,
+      "pano_id": "Ma1f0ayWqQUHVuAk7trFYw",
+      "image": "frame_0002.jpg"
+    },
+    {
+      "id": "corner_003",
+      "index": 3,
+      "lat": 42.360584,
+      "lng": -71.10711,
+      "osm_node_id": 61322877,
+      "street_names": [
+        "Pearl Street",
+        "Corporal McTernan Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        0,
+        2
+      ],
+      "heading": 86.0,
+      "pano_id": "sdIkTg5FiPRh9_LZ8TM_FA",
+      "image": "frame_0003.jpg"
+    },
+    {
+      "id": "corner_004",
+      "index": 4,
+      "lat": 42.3607194,
+      "lng": -71.1045058,
+      "osm_node_id": 61328016,
+      "street_names": [
+        "Tudor Street",
+        "Brookline Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        0,
+        3
+      ],
+      "heading": 103.7,
+      "pano_id": "mx0zHOitBbaa9-Jwzo6-Kg",
+      "image": "frame_0004.jpg"
+    },
+    {
+      "id": "corner_005",
+      "index": 5,
+      "lat": 42.3603542,
+      "lng": -71.1024737,
+      "osm_node_id": 61331888,
+      "street_names": [
+        "Sidney Street",
+        "Pacific Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        0,
+        4
+      ],
+      "heading": 74.9,
+      "pano_id": "10X6LWG0t3G6kBvO67fNTg",
+      "image": "frame_0005.jpg"
+    },
+    {
+      "id": "corner_006",
+      "index": 6,
+      "lat": 42.3609938,
+      "lng": -71.0992764,
+      "osm_node_id": 61322272,
+      "street_names": [
+        "Franklin Street",
+        "Landsdowne Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        0,
+        5
+      ],
+      "heading": 93.9,
+      "pano_id": "FT3-eJtgsDU889qw8T3Qyw",
+      "image": "frame_0006.jpg"
+    },
+    {
+      "id": "corner_007",
+      "index": 7,
+      "lat": 42.3608275,
+      "lng": -71.0960005,
+      "osm_node_id": 61323022,
+      "street_names": [
+        "Albany Street",
+        "Massachusetts Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        0,
+        6
+      ],
+      "heading": 129.4,
+      "pano_id": "AAwDBz2A5FWuYRax_tOlmA",
+      "image": "frame_0007.jpg"
+    },
+    {
+      "id": "corner_008",
+      "index": 8,
+      "lat": 42.3601506,
+      "lng": -71.0948847,
+      "osm_node_id": 61283269,
+      "street_names": [
+        "Massachusetts Avenue",
+        "Vassar Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        0,
+        7
+      ],
+      "heading": 91.6,
+      "pano_id": "zVuExTne_Tn4BeZqNFcOXg",
+      "image": "frame_0008.jpg"
+    },
+    {
+      "id": "corner_009",
+      "index": 9,
+      "lat": 42.3600049,
+      "lng": -71.0876593,
+      "osm_node_id": 61328027,
+      "street_names": [
+        "Amherst Street",
+        "Ames Street"
+      ],
+      "main_highways": [
+        "tertiary",
+        "unclassified"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        0,
+        9
+      ],
+      "heading": 276.8,
+      "pano_id": "joPotJTC5GPrnOP6Xg-VSg",
+      "image": "frame_0009.jpg"
+    },
+    {
+      "id": "corner_010",
+      "index": 10,
+      "lat": 42.3622709,
+      "lng": -71.1135298,
+      "osm_node_id": 61317400,
+      "street_names": [
+        "Putnam Avenue",
+        "River Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        1,
+        0
+      ],
+      "heading": 80.9,
+      "pano_id": "5_gTWQQm6xBbwXsOjvIahA",
+      "image": "frame_0010.jpg"
+    },
+    {
+      "id": "corner_011",
+      "index": 11,
+      "lat": 42.3627203,
+      "lng": -71.109745,
+      "osm_node_id": 61326949,
+      "street_names": [
+        "Kelly Road",
+        "Pleasant Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        1,
+        1
+      ],
+      "heading": 145.1,
+      "pano_id": "33cCfksCV7TGhQ4IFmKFSg",
+      "image": "frame_0011.jpg"
+    },
+    {
+      "id": "corner_012",
+      "index": 12,
+      "lat": 42.3614283,
+      "lng": -71.1085241,
+      "osm_node_id": 61322871,
+      "street_names": [
+        "Corporal McTernan Street",
+        "Magazine Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        1,
+        2
+      ],
+      "heading": 93.2,
+      "pano_id": "hByROzJPuDWwZSArI0zl5w",
+      "image": "frame_0012.jpg"
+    },
+    {
+      "id": "corner_013",
+      "index": 13,
+      "lat": 42.3612422,
+      "lng": -71.1039695,
+      "osm_node_id": 61331832,
+      "street_names": [
+        "Brookline Street",
+        "Pacific Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        1,
+        3
+      ],
+      "heading": 54.8,
+      "pano_id": "jbs1JyI7S7NgRMecQ65kJw",
+      "image": "frame_0013.jpg"
+    },
+    {
+      "id": "corner_014",
+      "index": 14,
+      "lat": 42.3624221,
+      "lng": -71.1017065,
+      "osm_node_id": 540399235,
+      "street_names": [
+        "Brookline Place",
+        "Franklin Street"
+      ],
+      "main_highways": [
+        "residential",
+        "service"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        1,
+        4
+      ],
+      "heading": 127.9,
+      "pano_id": "kATnW0pgFVozYmlcdK8lZg",
+      "image": "frame_0014.jpg"
+    },
+    {
+      "id": "corner_015",
+      "index": 15,
+      "lat": 42.3618769,
+      "lng": -71.1007587,
+      "osm_node_id": 61320986,
+      "street_names": [
+        "Franklin Street",
+        "Sidney Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        1,
+        5
+      ],
+      "heading": 92.0,
+      "pano_id": "PS5htTPTm6nsWMeliwPpsw",
+      "image": "frame_0015.jpg"
+    },
+    {
+      "id": "corner_016",
+      "index": 16,
+      "lat": 42.3617979,
+      "lng": -71.0976307,
+      "osm_node_id": 61323032,
+      "street_names": [
+        "Front Street",
+        "Massachusetts Avenue",
+        "Landsdowne Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        1,
+        6
+      ],
+      "heading": 87.8,
+      "pano_id": "sQANVW4Kckvdw8NAPlYfSw",
+      "image": "frame_0016.jpg"
+    },
+    {
+      "id": "corner_017",
+      "index": 17,
+      "lat": 42.3619059,
+      "lng": -71.0938619,
+      "osm_node_id": 4406201720,
+      "street_names": [
+        "Portland Street",
+        "Albany Street"
+      ],
+      "main_highways": [
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        1,
+        7
+      ],
+      "heading": 74.3,
+      "pano_id": "5veNYcR_suWxa-aEOk03IA",
+      "image": "frame_0017.jpg"
+    },
+    {
+      "id": "corner_018",
+      "index": 18,
+      "lat": 42.3627194,
+      "lng": -71.0899422,
+      "osm_node_id": 6100432137,
+      "street_names": [
+        "Vassar Street",
+        "Galileo Galilei Way",
+        "Main Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary",
+        "unclassified"
+      ],
+      "main_way_count": 6,
+      "grid_cell": [
+        1,
+        8
+      ],
+      "heading": 96.1,
+      "pano_id": "PypfP1SLaEFtY0tI5hI9Vw",
+      "image": "frame_0018.jpg"
+    },
+    {
+      "id": "corner_019",
+      "index": 19,
+      "lat": 42.3625829,
+      "lng": -71.0882069,
+      "osm_node_id": 61329857,
+      "street_names": [
+        "Main Street",
+        "Ames Street"
+      ],
+      "main_highways": [
+        "primary",
+        "tertiary"
+      ],
+      "main_way_count": 5,
+      "grid_cell": [
+        1,
+        9
+      ],
+      "heading": 275.3,
+      "pano_id": "Nzrcz-h_gz5DSORrEKe6JA",
+      "image": "frame_0019.jpg"
+    },
+    {
+      "id": "corner_020",
+      "index": 20,
+      "lat": 42.3644029,
+      "lng": -71.1148097,
+      "osm_node_id": 61317764,
+      "street_names": [
+        "Western Avenue",
+        "Blackstone Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        2,
+        0
+      ],
+      "heading": 114.2,
+      "pano_id": "ScMIXK3Fq4jTtVpXGGSLYw",
+      "image": "frame_0020.jpg"
+    },
+    {
+      "id": "corner_021",
+      "index": 21,
+      "lat": 42.3631341,
+      "lng": -71.1109896,
+      "osm_node_id": 61327098,
+      "street_names": [
+        "Laurel Street",
+        "River Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        2,
+        1
+      ],
+      "heading": 73.8,
+      "pano_id": "84oj75gq2QUj9LeuoR-9XA",
+      "image": "frame_0021.jpg"
+    },
+    {
+      "id": "corner_022",
+      "index": 22,
+      "lat": 42.3636317,
+      "lng": -71.1086703,
+      "osm_node_id": 61324566,
+      "street_names": [
+        "Pleasant Street",
+        "Pleasant Place"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        2,
+        2
+      ],
+      "heading": 101.4,
+      "pano_id": "fY8zVvcnGbVw9OpUliU8rg",
+      "image": "frame_0022.jpg"
+    },
+    {
+      "id": "corner_023",
+      "index": 23,
+      "lat": 42.3629273,
+      "lng": -71.1039427,
+      "osm_node_id": 61318595,
+      "street_names": [
+        "Salem Street",
+        "Auburn Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        2,
+        3
+      ],
+      "heading": 24.5,
+      "pano_id": "wjCb3F-pEexp1BKe-uCSew",
+      "image": "frame_0023.jpg"
+    },
+    {
+      "id": "corner_024",
+      "index": 24,
+      "lat": 42.364165,
+      "lng": -71.10318,
+      "osm_node_id": 61327071,
+      "street_names": [
+        "Pearl Street",
+        "Green Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        2,
+        4
+      ],
+      "heading": 114.5,
+      "pano_id": "KWvCrt8cQqjCI57AEKN0eQ",
+      "image": "frame_0024.jpg"
+    },
+    {
+      "id": "corner_025",
+      "index": 25,
+      "lat": 42.3629644,
+      "lng": -71.0996101,
+      "osm_node_id": 61329844,
+      "street_names": [
+        "Sidney Street Extension",
+        "Massachusetts Avenue",
+        "Sidney Street"
+      ],
+      "main_highways": [
+        "primary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        2,
+        5
+      ],
+      "heading": 67.6,
+      "pano_id": "jZHibTveV7hKPiS5c_0xpQ",
+      "image": "frame_0025.jpg"
+    },
+    {
+      "id": "corner_026",
+      "index": 26,
+      "lat": 42.3638831,
+      "lng": -71.0965909,
+      "osm_node_id": 61323791,
+      "street_names": [
+        "Windsor Street",
+        "School Street"
+      ],
+      "main_highways": [
+        "residential",
+        "service",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        2,
+        6
+      ],
+      "heading": 89.9,
+      "pano_id": "VM9hkf8rpWmKC3V8UWPPEA",
+      "image": "frame_0026.jpg"
+    },
+    {
+      "id": "corner_027",
+      "index": 27,
+      "lat": 42.3638872,
+      "lng": -71.0931718,
+      "osm_node_id": 61318436,
+      "street_names": [
+        "Portland Street",
+        "Washington Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        2,
+        7
+      ],
+      "heading": 128.8,
+      "pano_id": "fMxg1gHdtQHaSLw-ZT35hw",
+      "image": "frame_0027.jpg"
+    },
+    {
+      "id": "corner_028",
+      "index": 28,
+      "lat": 42.3628055,
+      "lng": -71.0913494,
+      "osm_node_id": 61283366,
+      "street_names": [
+        "Technology Square",
+        "Main Street"
+      ],
+      "main_highways": [
+        "primary",
+        "unclassified"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        2,
+        8
+      ],
+      "heading": 74.4,
+      "pano_id": "DqB4f6kT4x7hnTm4tG5REw",
+      "image": "frame_0028.jpg"
+    },
+    {
+      "id": "corner_029",
+      "index": 29,
+      "lat": 42.3635339,
+      "lng": -71.0878268,
+      "osm_node_id": 4726175802,
+      "street_names": [
+        "Ames Street",
+        "Jordan Place"
+      ],
+      "main_highways": [
+        "tertiary",
+        "unclassified"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        2,
+        9
+      ],
+      "heading": 273.1,
+      "pano_id": "A-WLjVtILe5ovim5ITCzIw",
+      "image": "frame_0029.jpg"
+    },
+    {
+      "id": "corner_030",
+      "index": 30,
+      "lat": 42.36455,
+      "lng": -71.1130959,
+      "osm_node_id": 61327020,
+      "street_names": [
+        "Hews Street",
+        "Montague Street",
+        "Western Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        3,
+        0
+      ],
+      "heading": 83.4,
+      "pano_id": "BVMLJN7zBW4jo6Kt7Lemcg",
+      "image": "frame_0030.jpg"
+    },
+    {
+      "id": "corner_031",
+      "index": 31,
+      "lat": 42.364617,
+      "lng": -71.1123153,
+      "osm_node_id": 61317761,
+      "street_names": [
+        "Dodge Street",
+        "Bancroft Street",
+        "Western Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        3,
+        1
+      ],
+      "heading": 83.4,
+      "pano_id": "EMxuJ1ueqwEg0wYiWENTrQ",
+      "image": "frame_0031.jpg"
+    },
+    {
+      "id": "corner_032",
+      "index": 32,
+      "lat": 42.3649009,
+      "lng": -71.1090063,
+      "osm_node_id": 61327155,
+      "street_names": [
+        "Kinnaird Street",
+        "Western Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        3,
+        2
+      ],
+      "heading": 79.5,
+      "pano_id": "fZKhb2KNcnzzZbHbZEKnog",
+      "image": "frame_0032.jpg"
+    },
+    {
+      "id": "corner_033",
+      "index": 33,
+      "lat": 42.3655877,
+      "lng": -71.1040004,
+      "osm_node_id": 61317423,
+      "street_names": [
+        "Prospect Street",
+        "Massachusetts Avenue"
+      ],
+      "main_highways": [
+        "primary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        3,
+        3
+      ],
+      "heading": 78.0,
+      "pano_id": "1Xv-J3IJQlLU-v2zP0wpOQ",
+      "image": "frame_0033.jpg"
+    },
+    {
+      "id": "corner_034",
+      "index": 34,
+      "lat": 42.365852,
+      "lng": -71.102318,
+      "osm_node_id": 61321754,
+      "street_names": [
+        "Bishop Allen Drive",
+        "Essex Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        3,
+        4
+      ],
+      "heading": 128.8,
+      "pano_id": "yaV9HZPXPgp0Yv5ybuEvwg",
+      "image": "frame_0034.jpg"
+    },
+    {
+      "id": "corner_035",
+      "index": 35,
+      "lat": 42.3646919,
+      "lng": -71.1003641,
+      "osm_node_id": 61323856,
+      "street_names": [
+        "Bishop Allen Drive",
+        "Douglass Street"
+      ],
+      "main_highways": [
+        "residential",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        3,
+        5
+      ],
+      "heading": 86.9,
+      "pano_id": "Mrwfzm6HRzb71_W-mxiPhg",
+      "image": "frame_0035.jpg"
+    },
+    {
+      "id": "corner_036",
+      "index": 36,
+      "lat": 42.3648558,
+      "lng": -71.0962551,
+      "osm_node_id": 61318520,
+      "street_names": [
+        "Washington Street",
+        "Windsor Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        3,
+        6
+      ],
+      "heading": 81.8,
+      "pano_id": "mYEdcGzuZ0mAwnGhMgLoaw",
+      "image": "frame_0036.jpg"
+    },
+    {
+      "id": "corner_037",
+      "index": 37,
+      "lat": 42.3651691,
+      "lng": -71.0933019,
+      "osm_node_id": 61317383,
+      "street_names": [
+        "Davis Street",
+        "Harvard Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        3,
+        7
+      ],
+      "heading": 80.3,
+      "pano_id": "n8j1R-mZqdkuoZZfF7BMVA",
+      "image": "frame_0037.jpg"
+    },
+    {
+      "id": "corner_038",
+      "index": 38,
+      "lat": 42.3654434,
+      "lng": -71.0911352,
+      "osm_node_id": 61323890,
+      "street_names": [
+        "Broadway",
+        "Technology Square",
+        "Hampshire Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary",
+        "unclassified"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        3,
+        8
+      ],
+      "heading": 117.0,
+      "pano_id": "Q8ngfkG9kBoTiiJEOHvqfA",
+      "image": "frame_0038.jpg"
+    },
+    {
+      "id": "corner_039",
+      "index": 39,
+      "lat": 42.36479,
+      "lng": -71.0894028,
+      "osm_node_id": 1053454370,
+      "street_names": [
+        "Galileo Galilei Way",
+        "Broadway"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary",
+        "unclassified"
+      ],
+      "main_way_count": 5,
+      "grid_cell": [
+        3,
+        9
+      ],
+      "heading": 279.0,
+      "pano_id": "2Ll91CiTd2DEodZEAKj_KQ",
+      "image": "frame_0039.jpg"
+    },
+    {
+      "id": "corner_040",
+      "index": 40,
+      "lat": 42.3677535,
+      "lng": -71.1147167,
+      "osm_node_id": 61327320,
+      "street_names": [
+        "Flagg Street",
+        "Banks Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        0
+      ],
+      "heading": 89.8,
+      "pano_id": "EYhi0UmZAX2fcamE3WnyCA",
+      "image": "frame_0040.jpg"
+    },
+    {
+      "id": "corner_041",
+      "index": 41,
+      "lat": 42.3677647,
+      "lng": -71.1110854,
+      "osm_node_id": 61326628,
+      "street_names": [
+        "Bay Street",
+        "Franklin Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        1
+      ],
+      "heading": 116.8,
+      "pano_id": "ezcbYicP9WpLeGfkTRGyTg",
+      "image": "frame_0041.jpg"
+    },
+    {
+      "id": "corner_042",
+      "index": 42,
+      "lat": 42.3661797,
+      "lng": -71.1068356,
+      "osm_node_id": 6755797733,
+      "street_names": [],
+      "main_highways": [
+        "service"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        4,
+        2
+      ],
+      "heading": 7.7,
+      "pano_id": "ghr0OuS2Kq6jJNJgnoC6cQ",
+      "image": "frame_0042.jpg"
+    },
+    {
+      "id": "corner_043",
+      "index": 43,
+      "lat": 42.3672113,
+      "lng": -71.1066473,
+      "osm_node_id": 61327337,
+      "street_names": [
+        "Sellers Street",
+        "Massachusetts Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        4,
+        3
+      ],
+      "heading": 108.5,
+      "pano_id": "Y_XzvnBX9ae5jZwfA3uexw",
+      "image": "frame_0043.jpg"
+    },
+    {
+      "id": "corner_044",
+      "index": 44,
+      "lat": 42.3663473,
+      "lng": -71.1031493,
+      "osm_node_id": 11721789500,
+      "street_names": [
+        "Bishop Allen Drive",
+        "Prospect Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        4
+      ],
+      "heading": 64.6,
+      "pano_id": "5AzdoEW09DygLtjPPaRNqA",
+      "image": "frame_0044.jpg"
+    },
+    {
+      "id": "corner_045",
+      "index": 45,
+      "lat": 42.367575,
+      "lng": -71.099657,
+      "osm_node_id": 61321032,
+      "street_names": [
+        "Norfolk Street",
+        "Harvard Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        5
+      ],
+      "heading": 113.7,
+      "pano_id": "q1ipizXL7nWnsAf3SXcmhQ",
+      "image": "frame_0045.jpg"
+    },
+    {
+      "id": "corner_046",
+      "index": 46,
+      "lat": 42.3669905,
+      "lng": -71.0978511,
+      "osm_node_id": 61327356,
+      "street_names": [
+        "Columbia Street",
+        "Harvard Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        6
+      ],
+      "heading": 91.6,
+      "pano_id": "K9GHCfIkC_lxMVlDHnVhxQ",
+      "image": "frame_0046.jpg"
+    },
+    {
+      "id": "corner_047",
+      "index": 47,
+      "lat": 42.3669139,
+      "lng": -71.0940434,
+      "osm_node_id": 61321428,
+      "street_names": [
+        "Clark Street",
+        "Market Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        7
+      ],
+      "heading": 110.3,
+      "pano_id": "BnRtyxud8StgMcGaJRl9Jg",
+      "image": "frame_0047.jpg"
+    },
+    {
+      "id": "corner_048",
+      "index": 48,
+      "lat": 42.3662965,
+      "lng": -71.0917831,
+      "osm_node_id": 61327212,
+      "street_names": [
+        "Portland Street",
+        "Hampshire Street",
+        "Cardinal Medeiros Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        4,
+        8
+      ],
+      "heading": 83.8,
+      "pano_id": "fP0iXPoK2PaPEMjcFIQymA",
+      "image": "frame_0048.jpg"
+    },
+    {
+      "id": "corner_049",
+      "index": 49,
+      "lat": 42.3665838,
+      "lng": -71.0881891,
+      "osm_node_id": 61333553,
+      "street_names": [
+        "Fulkerson Street",
+        "Binney Street"
+      ],
+      "main_highways": [
+        "secondary",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        4,
+        9
+      ],
+      "heading": 276.3,
+      "pano_id": "iZIdT52SrZUGFUCmvUiJVw",
+      "image": "frame_0049.jpg"
+    },
+    {
+      "id": "corner_050",
+      "index": 50,
+      "lat": 42.3687388,
+      "lng": -71.1146974,
+      "osm_node_id": 61321522,
+      "street_names": [
+        "Surrey Street",
+        "Banks Street",
+        "Cowperthwaite Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        5,
+        0
+      ],
+      "heading": 98.4,
+      "pano_id": "MYVV-9-yZI6gFDoqUCYXyg",
+      "image": "frame_0050.jpg"
+    },
+    {
+      "id": "corner_051",
+      "index": 51,
+      "lat": 42.368306,
+      "lng": -71.110746,
+      "osm_node_id": 61326621,
+      "street_names": [
+        "Green Street",
+        "Bay Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        1
+      ],
+      "heading": 86.7,
+      "pano_id": "5HoNraVsPQPFNybE_opPxQ",
+      "image": "frame_0051.jpg"
+    },
+    {
+      "id": "corner_052",
+      "index": 52,
+      "lat": 42.3683897,
+      "lng": -71.1087707,
+      "osm_node_id": 61317361,
+      "street_names": [
+        "Hancock Street",
+        "Massachusetts Avenue"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        2
+      ],
+      "heading": 76.7,
+      "pano_id": "3bWK_yz93kELk515LnsBdw",
+      "image": "frame_0052.jpg"
+    },
+    {
+      "id": "corner_053",
+      "index": 53,
+      "lat": 42.3691792,
+      "lng": -71.1042351,
+      "osm_node_id": 61321103,
+      "street_names": [
+        "Bigelow Street",
+        "Harvard Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        3
+      ],
+      "heading": 115.6,
+      "pano_id": "toF3Hqw_WrK2G8VynqDNFA",
+      "image": "frame_0053.jpg"
+    },
+    {
+      "id": "corner_054",
+      "index": 54,
+      "lat": 42.3682994,
+      "lng": -71.1017489,
+      "osm_node_id": 61317367,
+      "street_names": [
+        "Harvard Street",
+        "Prospect Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        5,
+        4
+      ],
+      "heading": 115.5,
+      "pano_id": "9ujwWf-N5veJYc3Ihj_UcA",
+      "image": "frame_0054.jpg"
+    },
+    {
+      "id": "corner_055",
+      "index": 55,
+      "lat": 42.367969,
+      "lng": -71.10081,
+      "osm_node_id": 61317382,
+      "street_names": [
+        "Harvard Street",
+        "Essex Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        5
+      ],
+      "heading": 91.9,
+      "pano_id": "koT2Vq3VG5B4A0vFWr_WOA",
+      "image": "frame_0055.jpg"
+    },
+    {
+      "id": "corner_056",
+      "index": 56,
+      "lat": 42.3678848,
+      "lng": -71.0973665,
+      "osm_node_id": 61326592,
+      "street_names": [
+        "Broadway",
+        "Columbia Street"
+      ],
+      "main_highways": [
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        5,
+        6
+      ],
+      "heading": 65.2,
+      "pano_id": "Pk3teEm7tRYNy67Zld3UZw",
+      "image": "frame_0056.jpg"
+    },
+    {
+      "id": "corner_057",
+      "index": 57,
+      "lat": 42.368764,
+      "lng": -71.094789,
+      "osm_node_id": 11229037687,
+      "street_names": [
+        "Plymouth Street",
+        "Windsor Street",
+        "Hampshire Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 5,
+      "grid_cell": [
+        5,
+        7
+      ],
+      "heading": 75.4,
+      "pano_id": "CGMsbEIRrWaJB5kOaD4YPQ",
+      "image": "frame_0057.jpg"
+    },
+    {
+      "id": "corner_058",
+      "index": 58,
+      "lat": 42.3694162,
+      "lng": -71.0913928,
+      "osm_node_id": 61323468,
+      "street_names": [
+        "York Place",
+        "York Street",
+        "Berkshire Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        8
+      ],
+      "heading": 108.2,
+      "pano_id": "e72hWdNgofx0Dm-oBzSVgA",
+      "image": "frame_0058.jpg"
+    },
+    {
+      "id": "corner_059",
+      "index": 59,
+      "lat": 42.368525,
+      "lng": -71.0877285,
+      "osm_node_id": 61321203,
+      "street_names": [
+        "Fulkerson Street",
+        "Charles Street"
+      ],
+      "main_highways": [
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        5,
+        9
+      ],
+      "heading": 274.9,
+      "pano_id": "BIa471vFLYsEcGvX_5RJQw",
+      "image": "frame_0059.jpg"
+    },
+    {
+      "id": "corner_060",
+      "index": 60,
+      "lat": 42.3701067,
+      "lng": -71.1129548,
+      "osm_node_id": 61318532,
+      "street_names": [
+        "Massachusetts Avenue",
+        "Trowbridge Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        6,
+        0
+      ],
+      "heading": 93.5,
+      "pano_id": "3zwkMg_5adHLQVfJ47XBtQ",
+      "image": "frame_0060.jpg"
+    },
+    {
+      "id": "corner_061",
+      "index": 61,
+      "lat": 42.369982,
+      "lng": -71.110182,
+      "osm_node_id": 61326730,
+      "street_names": [
+        "Dana Street",
+        "Centre Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        6,
+        1
+      ],
+      "heading": 55.3,
+      "pano_id": "fqh_yRIllKgppjF7wHJa0Q",
+      "image": "frame_0061.jpg"
+    },
+    {
+      "id": "corner_062",
+      "index": 62,
+      "lat": 42.3711468,
+      "lng": -71.1079015,
+      "osm_node_id": 61325538,
+      "street_names": [
+        "Chatham Street",
+        "Merrill Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        6,
+        2
+      ],
+      "heading": 98.2,
+      "pano_id": "LS7FpxRjJb0oLXs_Wffi7A",
+      "image": "frame_0062.jpg"
+    },
+    {
+      "id": "corner_063",
+      "index": 63,
+      "lat": 42.3708147,
+      "lng": -71.1047946,
+      "osm_node_id": 61327535,
+      "street_names": [
+        "Lee Street",
+        "Broadway",
+        "Fayette Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        6,
+        3
+      ],
+      "heading": 118.2,
+      "pano_id": "ik2nCGJLdfYg4lvJCmlvTA",
+      "image": "frame_0063.jpg"
+    },
+    {
+      "id": "corner_064",
+      "index": 64,
+      "lat": 42.370076,
+      "lng": -71.1029281,
+      "osm_node_id": 61329208,
+      "street_names": [
+        "Inman Street",
+        "Broadway"
+      ],
+      "main_highways": [
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        6,
+        4
+      ],
+      "heading": 74.2,
+      "pano_id": "pKf6ZMXHESxgJhhLPjH_yw",
+      "image": "frame_0064.jpg"
+    },
+    {
+      "id": "corner_065",
+      "index": 65,
+      "lat": 42.3706715,
+      "lng": -71.1000707,
+      "osm_node_id": 61321196,
+      "street_names": [
+        "Prospect Street",
+        "Saint Mary Road"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        6,
+        5
+      ],
+      "heading": 79.5,
+      "pano_id": "yvbXV9H_g-vzuBQhIY7qRw",
+      "image": "frame_0065.jpg"
+    },
+    {
+      "id": "corner_066",
+      "index": 66,
+      "lat": 42.371018,
+      "lng": -71.0975335,
+      "osm_node_id": 61329266,
+      "street_names": [
+        "Hampshire Street",
+        "Norfolk Street"
+      ],
+      "main_highways": [
+        "primary",
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        6,
+        6
+      ],
+      "heading": 91.2,
+      "pano_id": "CGTUdt2QaA6Mf3zttJPUEQ",
+      "image": "frame_0066.jpg"
+    },
+    {
+      "id": "corner_067",
+      "index": 67,
+      "lat": 42.3709604,
+      "lng": -71.0939563,
+      "osm_node_id": 61323088,
+      "street_names": [
+        "Windsor Street",
+        "Lincoln Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        6,
+        7
+      ],
+      "heading": 113.4,
+      "pano_id": "Jvdg9ciRZQfFeKGFyn3RHQ",
+      "image": "frame_0067.jpg"
+    },
+    {
+      "id": "corner_068",
+      "index": 68,
+      "lat": 42.3700267,
+      "lng": -71.0910364,
+      "osm_node_id": 61323481,
+      "street_names": [
+        "Hardwick Street",
+        "Berkshire Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        6,
+        8
+      ],
+      "heading": 79.4,
+      "pano_id": "q8EC5FseNgPBAXDCMcexOQ",
+      "image": "frame_0068.jpg"
+    },
+    {
+      "id": "corner_069",
+      "index": 69,
+      "lat": 42.3705538,
+      "lng": -71.0872293,
+      "osm_node_id": 61326914,
+      "street_names": [
+        "Thorndike Street",
+        "Fulkerson Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        6,
+        9
+      ],
+      "heading": 274.9,
+      "pano_id": "kACiO6AtocdHsfyz-Ir-1Q",
+      "image": "frame_0069.jpg"
+    },
+    {
+      "id": "corner_070",
+      "index": 70,
+      "lat": 42.3723093,
+      "lng": -71.115147,
+      "osm_node_id": 61325432,
+      "street_names": [
+        "Harvard Street",
+        "Quincy Street"
+      ],
+      "main_highways": [
+        "secondary",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        7,
+        0
+      ],
+      "heading": 83.5,
+      "pano_id": "zYdrxcq63ea4nFE1ABGeDg",
+      "image": "frame_0070.jpg"
+    },
+    {
+      "id": "corner_071",
+      "index": 71,
+      "lat": 42.3727673,
+      "lng": -71.1097285,
+      "osm_node_id": 61325493,
+      "street_names": [
+        "Broadway",
+        "Ellery Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        7,
+        1
+      ],
+      "heading": 118.2,
+      "pano_id": "FColIiSr3sANPC1b8Z3UbA",
+      "image": "frame_0071.jpg"
+    },
+    {
+      "id": "corner_072",
+      "index": 72,
+      "lat": 42.3716228,
+      "lng": -71.1068365,
+      "osm_node_id": 61325521,
+      "street_names": [
+        "Highland Avenue",
+        "Crawford Street",
+        "Broadway"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        7,
+        2
+      ],
+      "heading": 100.7,
+      "pano_id": "nhOeRbaRxl-BGoH4dMbetg",
+      "image": "frame_0072.jpg"
+    },
+    {
+      "id": "corner_073",
+      "index": 73,
+      "lat": 42.3712735,
+      "lng": -71.1043353,
+      "osm_node_id": 61318544,
+      "street_names": [
+        "Fayette Park",
+        "Fayette Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        7,
+        3
+      ],
+      "heading": 85.1,
+      "pano_id": "vb-_vxZV2m4BHob5qew8Dw",
+      "image": "frame_0073.jpg"
+    },
+    {
+      "id": "corner_074",
+      "index": 74,
+      "lat": 42.3714231,
+      "lng": -71.1019818,
+      "osm_node_id": 61325581,
+      "street_names": [
+        "Inman Street",
+        "Saint Mary Road"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        7,
+        4
+      ],
+      "heading": 70.5,
+      "pano_id": "cOmjEwu1gehie7YMzrlcuA",
+      "image": "frame_0074.jpg"
+    },
+    {
+      "id": "corner_075",
+      "index": 75,
+      "lat": 42.3722095,
+      "lng": -71.0989836,
+      "osm_node_id": 61325436,
+      "street_names": [
+        "Prospect Street",
+        "Hampshire Street"
+      ],
+      "main_highways": [
+        "primary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        7,
+        5
+      ],
+      "heading": 118.5,
+      "pano_id": "6rGWkAhTm7RdQUa93zNPtA",
+      "image": "frame_0075.jpg"
+    },
+    {
+      "id": "corner_076",
+      "index": 76,
+      "lat": 42.3715091,
+      "lng": -71.0972366,
+      "osm_node_id": 7113727475,
+      "street_names": [
+        "Norfolk Street"
+      ],
+      "main_highways": [
+        "residential",
+        "service"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        7,
+        6
+      ],
+      "heading": 66.9,
+      "pano_id": "VAEG3_HWAtW5M_D0AI85jA",
+      "image": "frame_0076.jpg"
+    },
+    {
+      "id": "corner_077",
+      "index": 77,
+      "lat": 42.3727564,
+      "lng": -71.0932778,
+      "osm_node_id": 61324445,
+      "street_names": [
+        "Cambridge Street",
+        "Windsor Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary",
+        "tertiary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        7,
+        7
+      ],
+      "heading": 100.0,
+      "pano_id": "6d-oMqRowl-SsX92Sjbqhw",
+      "image": "frame_0077.jpg"
+    },
+    {
+      "id": "corner_078",
+      "index": 78,
+      "lat": 42.3725686,
+      "lng": -71.0918297,
+      "osm_node_id": 61325439,
+      "street_names": [
+        "Willow Street",
+        "Cambridge Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        7,
+        8
+      ],
+      "heading": 110.7,
+      "pano_id": "Y4WP9coHuMTErrzBFt7nQA",
+      "image": "frame_0078.jpg"
+    },
+    {
+      "id": "corner_079",
+      "index": 79,
+      "lat": 42.371234,
+      "lng": -71.0870544,
+      "osm_node_id": 61323066,
+      "street_names": [
+        "Otis Street",
+        "Fulkerson Street"
+      ],
+      "main_highways": [
+        "residential",
+        "tertiary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        7,
+        9
+      ],
+      "heading": 279.1,
+      "pano_id": "yJq4-Slh7chEsjzhL3UaDA",
+      "image": "frame_0079.jpg"
+    },
+    {
+      "id": "corner_080",
+      "index": 80,
+      "lat": 42.3743717,
+      "lng": -71.1136153,
+      "osm_node_id": 61324878,
+      "street_names": [
+        "Prescott Street",
+        "Broadway"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        8,
+        0
+      ],
+      "heading": 120.2,
+      "pano_id": "w0MIS7XS_jTv8EBzARN3cQ",
+      "image": "frame_0080.jpg"
+    },
+    {
+      "id": "corner_081",
+      "index": 81,
+      "lat": 42.3735507,
+      "lng": -71.1117079,
+      "osm_node_id": 469402813,
+      "street_names": [
+        "Broadway"
+      ],
+      "main_highways": [
+        "secondary",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        1
+      ],
+      "heading": 94.9,
+      "pano_id": "Gr_Y5z8rgU7V0dwm_1YC-Q",
+      "image": "frame_0081.jpg"
+    },
+    {
+      "id": "corner_082",
+      "index": 82,
+      "lat": 42.3732533,
+      "lng": -71.1070271,
+      "osm_node_id": 61322045,
+      "street_names": [
+        "Ellsworth Avenue",
+        "Ellsworth Park"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 2,
+      "grid_cell": [
+        8,
+        2
+      ],
+      "heading": 59.5,
+      "pano_id": "U18ZG55cACCRhdV2yXwUAw",
+      "image": "frame_0082.jpg"
+    },
+    {
+      "id": "corner_083",
+      "index": 83,
+      "lat": 42.3742425,
+      "lng": -71.1047543,
+      "osm_node_id": 61321023,
+      "street_names": [
+        "Cambridge Street",
+        "Highland Avenue"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        3
+      ],
+      "heading": 99.8,
+      "pano_id": "a7AZ6b7i9WgwSS8DDNz4wA",
+      "image": "frame_0083.jpg"
+    },
+    {
+      "id": "corner_084",
+      "index": 84,
+      "lat": 42.3739025,
+      "lng": -71.1020812,
+      "osm_node_id": 61318545,
+      "street_names": [
+        "Cambridge Street",
+        "Fayette Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        8,
+        4
+      ],
+      "heading": 100.1,
+      "pano_id": "TKDY3G6jcMfd5YL0_ftb_Q",
+      "image": "frame_0084.jpg"
+    },
+    {
+      "id": "corner_085",
+      "index": 85,
+      "lat": 42.3733859,
+      "lng": -71.0981456,
+      "osm_node_id": 61324518,
+      "street_names": [
+        "Prospect Street",
+        "Cambridge Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        5
+      ],
+      "heading": 99.9,
+      "pano_id": "iCsgc9hd7bFu9JLEe2Xxgg",
+      "image": "frame_0085.jpg"
+    },
+    {
+      "id": "corner_086",
+      "index": 86,
+      "lat": 42.3731397,
+      "lng": -71.0962371,
+      "osm_node_id": 61329176,
+      "street_names": [
+        "Cambridge Street",
+        "Norfolk Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        8,
+        6
+      ],
+      "heading": 99.9,
+      "pano_id": "abw6qE6YfRgTB30jhECqcg",
+      "image": "frame_0086.jpg"
+    },
+    {
+      "id": "corner_087",
+      "index": 87,
+      "lat": 42.3729155,
+      "lng": -71.0945052,
+      "osm_node_id": 61321635,
+      "street_names": [
+        "Columbia Street",
+        "Webster Avenue",
+        "Cambridge Street"
+      ],
+      "main_highways": [
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        7
+      ],
+      "heading": 65.6,
+      "pano_id": "wqjptSRzXKZu4_gY6n5UXQ",
+      "image": "frame_0087.jpg"
+    },
+    {
+      "id": "corner_088",
+      "index": 88,
+      "lat": 42.374344,
+      "lng": -71.090233,
+      "osm_node_id": 61171494,
+      "street_names": [
+        "South Street",
+        "Harding Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        8
+      ],
+      "heading": 106.1,
+      "pano_id": "dnqzkYHeJvD4b89dKuopoQ",
+      "image": "frame_0088.jpg"
+    },
+    {
+      "id": "corner_089",
+      "index": 89,
+      "lat": 42.3737905,
+      "lng": -71.0876433,
+      "osm_node_id": 61178893,
+      "street_names": [
+        "Medford Street",
+        "Warren Street"
+      ],
+      "main_highways": [
+        "secondary",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        8,
+        9
+      ],
+      "heading": 273.0,
+      "pano_id": "ONX2wZ0uny9KT-B5ZbNFmw",
+      "image": "frame_0089.jpg"
+    },
+    {
+      "id": "corner_090",
+      "index": 90,
+      "lat": 42.3748401,
+      "lng": -71.1144742,
+      "osm_node_id": 11720988024,
+      "street_names": [
+        "Broadway",
+        "Quincy Street"
+      ],
+      "main_highways": [
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        0
+      ],
+      "heading": 88.4,
+      "pano_id": "F09weufi6RFT3BU8Kscj_A",
+      "image": "frame_0090.jpg"
+    },
+    {
+      "id": "corner_091",
+      "index": 91,
+      "lat": 42.374932,
+      "lng": -71.1100615,
+      "osm_node_id": 61324466,
+      "street_names": [
+        "Trowbridge Street",
+        "Cambridge Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        1
+      ],
+      "heading": 99.9,
+      "pano_id": "5RKX6bkNjoBzE4C23CxWHg",
+      "image": "frame_0091.jpg"
+    },
+    {
+      "id": "corner_092",
+      "index": 92,
+      "lat": 42.3747106,
+      "lng": -71.1083403,
+      "osm_node_id": 61324905,
+      "street_names": [
+        "Cambridge Street",
+        "Ellery Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        2
+      ],
+      "heading": 84.5,
+      "pano_id": "v0UUt6CpCDHmuw1-JaAYwA",
+      "image": "frame_0092.jpg"
+    },
+    {
+      "id": "corner_093",
+      "index": 93,
+      "lat": 42.3749524,
+      "lng": -71.1049633,
+      "osm_node_id": 61332349,
+      "street_names": [
+        "Camelia Avenue"
+      ],
+      "main_highways": [
+        "residential",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        9,
+        3
+      ],
+      "heading": 84.8,
+      "pano_id": "j469rafI9Jiez_d4-rZKuw",
+      "image": "frame_0093.jpg"
+    },
+    {
+      "id": "corner_094",
+      "index": 94,
+      "lat": 42.3751176,
+      "lng": -71.1025099,
+      "osm_node_id": 61171038,
+      "street_names": [
+        "Concord Avenue",
+        "Beacon Street"
+      ],
+      "main_highways": [
+        "primary",
+        "secondary",
+        "service"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        9,
+        4
+      ],
+      "heading": 82.4,
+      "pano_id": "9gqF5kA1BvMgfISTm2unBw",
+      "image": "frame_0094.jpg"
+    },
+    {
+      "id": "corner_095",
+      "index": 95,
+      "lat": 42.375467,
+      "lng": -71.098963,
+      "osm_node_id": 71928177,
+      "street_names": [
+        "Holts Avenue",
+        "Oak Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        5
+      ],
+      "heading": 81.5,
+      "pano_id": "ignN4Z1mqXjclsxm9vmSAQ",
+      "image": "frame_0095.jpg"
+    },
+    {
+      "id": "corner_096",
+      "index": 96,
+      "lat": 42.3758769,
+      "lng": -71.095247,
+      "osm_node_id": 61171615,
+      "street_names": [
+        "Tremont Street",
+        "Webster Avenue",
+        "Columbia Street"
+      ],
+      "main_highways": [
+        "residential",
+        "secondary"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        9,
+        6
+      ],
+      "heading": 95.6,
+      "pano_id": "elRD-BonFH4yp5tIVVfy2g",
+      "image": "frame_0096.jpg"
+    },
+    {
+      "id": "corner_097",
+      "index": 97,
+      "lat": 42.3758058,
+      "lng": -71.0942699,
+      "osm_node_id": 61171505,
+      "street_names": [
+        "Columbia Street",
+        "Windsor Place"
+      ],
+      "main_highways": [
+        "residential",
+        "unclassified"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        7
+      ],
+      "heading": 119.4,
+      "pano_id": "gP03n1PPxaX5tounZJujug",
+      "image": "frame_0097.jpg"
+    },
+    {
+      "id": "corner_098",
+      "index": 98,
+      "lat": 42.3745676,
+      "lng": -71.0912951,
+      "osm_node_id": 61179840,
+      "street_names": [
+        "South Street",
+        "Willow Place"
+      ],
+      "main_highways": [
+        "residential",
+        "unclassified"
+      ],
+      "main_way_count": 3,
+      "grid_cell": [
+        9,
+        8
+      ],
+      "heading": 74.4,
+      "pano_id": "yRT1WBpgKhZgu9awIIt_XQ",
+      "image": "frame_0098.jpg"
+    },
+    {
+      "id": "corner_099",
+      "index": 99,
+      "lat": 42.3749507,
+      "lng": -71.0894318,
+      "osm_node_id": 61171117,
+      "street_names": [
+        "Horace Street",
+        "Ward Street"
+      ],
+      "main_highways": [
+        "residential"
+      ],
+      "main_way_count": 4,
+      "grid_cell": [
+        9,
+        9
+      ],
+      "heading": 275.5,
+      "pano_id": "-YRWzP7p0gDP2EDrN2EygQ",
+      "image": "frame_0099.jpg"
+    },
+    {
+      "id": "corner_100",
+      "index": 100,
+      "lat": 42.376199,
+      "lng": -71.106937,
+      "osm_node_id": 3211701002,
+      "street_names": [],
+      "main_highways": [
+        "service"
+      ],
+      "main_way_count": 2,
+      "grid_cell": null,
+      "heading": 275.5,
+      "pano_id": "KFJYncuwrbbC54SMpsETaA",
+      "image": "frame_0100.jpg"
+    }
+  ],
+  "edges": [],
+  "skipped_detail": []
+}
